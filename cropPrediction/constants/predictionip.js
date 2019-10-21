@@ -1,0 +1,1 @@
+export default predictionip = "https://plantbeabhi.herokuapp.com/predict"
